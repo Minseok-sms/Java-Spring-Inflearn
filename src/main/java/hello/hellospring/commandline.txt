@@ -1,1 +1,2 @@
 자동완성 ctrl + shift + space
+getter/setter/생성자 (generate) : alt + insert
